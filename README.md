@@ -12,6 +12,6 @@
     <h2 dir="rtl"> חובה להגיד את המשפט הזה לפני כל המנון </h2>
       <p dir="rtl"> שבי המלך שבי המלך שבי לא לוזר שבי הוא מלך הוא מלך ננננננננננננננ </p>
    
-<img src="guy" alt="shaby" width="102" height="141.75">
+<img src="guy.png" alt="shaby" width="102" height="141.75">
   </body>
 </html>
